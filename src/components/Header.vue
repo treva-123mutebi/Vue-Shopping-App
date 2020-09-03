@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark" role="navigation">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
-    <router-link to="/" class="navbar-brand mr-auto">Online Store</router-link>
+    <router-link to="/" class="navbar-brand mr-auto">Simple Store</router-link>
     <button
         class="navbar-toggler"
         type="button"

@@ -14,7 +14,7 @@
       </div>
 
       <div class="caption-full">
-        <h4 class="pull-right">$ {{ item.price }}</h4>
+        <h4 class="pull-right">UGX {{ item.price }}</h4>
         <h4> {{ item.title }}</h4>
         <p> {{ item.description }} </p>
       </div>
